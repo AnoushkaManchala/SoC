@@ -15,7 +15,7 @@
 
 - # Week 2 – NumPy, Pandas, and Matplotlib
 
-## 📖 Topics Covered:
+## Topics Covered:
 
 ###  NumPy:
 - Arrays, shapes, reshaping, indexing/slicing
