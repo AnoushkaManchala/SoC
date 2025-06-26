@@ -52,7 +52,7 @@
 ##  Code Practice:
 
 - Solved ~60 NumPy challenges from rougier repo (will upload cleaned notebook)
-- Solved ~35 Pandas puzzles to solidify DataFrame logic
+- Solved ~28 Pandas puzzles to solidify DataFrame logic
 - Created basic Matplotlib plots (scatter, line, bar) using toy datasets
 
 
