@@ -27,3 +27,11 @@ except ValueError:
     print("Invalid input. Please enter a number.")
 finally:
     print("Execution complete.")
+
+# File I/O practice
+with open("sample.txt", "w") as f:
+    f.write("This is a test.\nLine two here.")
+
+with open("sample.txt", "r") as f:
+    content = f.read()
+    print(content)
