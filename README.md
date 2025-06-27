@@ -55,6 +55,58 @@
 - Solved ~28 Pandas puzzles to solidify DataFrame logic
 - Created basic Matplotlib plots (scatter, line, bar) using toy datasets
 
+# Week 3: Basics of Neural Networks
+
+## Topics Covered:
+- Introduction to Neural Networks
+- Activation functions and Loss
+- Optimization and backward propagation
+- Regularization L1 and L2
+- Binary Regression
+
+## Primary Resource:
+- **Book**: "Neural Networks from Scratch" (Extended Version)
+- Chapters 1–10 studied in detail  
+- Chapters 11–17: Reviewed summaries due to time constraints
+
+
+## Key Takeaways:
+- **Neurons** process weighted inputs and use activation functions to produce outputs
+- **Feedforward Networks** pass data in one direction, layer by layer
+- **Backpropagation** uses gradients to update weights and minimize error
+- Understood the difference between batch, mini-batch, and stochastic gradient descent
+- Learned how loss functions quantify the error in predictions
+
+# Week 4: PINNs and PyTorch Basics
+
+## Topics Covered:
+
+### PyTorch:
+- Tensors, operations, and gradients
+- Defining and training neural networks
+- Custom loss functions
+
+## Key Resources:
+
+### PyTorch:
+- [CampusX PyTorch Tutorial (Videos 2–10)](https://www.youtube.com/watch?v=mDsFsnw3SK4&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
+
+### PINNs:
+- [Introduction to PINNs (YouTube)](https://www.youtube.com/watch?v=G_hIppUWcsc)
+- [Research Paper (UIS)](https://uis.brage.unit.no/.../92613016:35566981.pdf)
+- [Advanced Applications](https://hal.science/hal-04491808/file/pinnsf.pdf)
+
+
+## Notes:
+
+- PyTorch implementation practice ongoing  
+- Need to start coding PINNs 
+- Project idea shortlisting next priority
+
+
+
+
 
 
 
